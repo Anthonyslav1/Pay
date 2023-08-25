@@ -1,0 +1,43 @@
+NETWORK_PASSPHRASE="Testnet Stellar Network ; August 2023"
+HORIZON_URL="https://horizon-testnet.stellar.org"
+ACCOUNTS=[
+"GAL4NORXMCJHANTGHG3ZDLFDYXXKGWGW4KMDJ2RAPYAN6ESTLQHA260E",
+"GDZHHNRD7WWWUQQVIZBJBULGIHYGG7EY2ZJAXOFU6GC6WCTWANPH2IJA"
+]
+VERSION="2.0.0"
+
+[DOCUMENTATION]
+ORG_NAME="Pay4me"
+ORG_DBA="Pay4me"
+ORG_URL="https://www.Pay4me.app"
+ORG_LOGO=""
+ORG_DESCRIPTION="Fast & Affordable Global Payments"
+ORG_PHYSICAL_ADDRESS="[5th] Floor, Brassars' Place, 69 Admiralty Way, Lekki Phase 1, Lagos."
+ORG_PHYSICAL_ADDRESS_ATTESTATION="500 S 8th St, Boise, ID 83702”
+ORG_LINKEDIN="https://www.linkedin.com/company/pay4meapp/"
+ORG_TWITTER="@Pay4meapp"
+ORG_GITHUB=“"
+ORG_OFFICIAL_EMAIL="support@pay4me.app"
+
+[[PRINCIPALS]]
+name="Nweke Anthony"
+email="Anthony.nweke2002@gmail.com"
+LinkedIn="https://www.linkedin.com/in/anthonyslav1"
+twitter="Anthonyslav1"
+github="Anthonyslav1"
+
+[[CURRENCIES]]
+code="USD"
+issuer="GCZJM35NKGVK47BB4SPBDV25477PZYIYPVVG453LPYFNXLS3FGHDXOCM"
+display_decimals=2
+
+[[CURRENCIES]]
+
+# asset with meta info
+[[CURRENCIES]]
+code="Anthonyslav1"
+issuer="GDZHHNRD7WWWUQQVIZBJBULGIHYGG7EY2ZJAXOFU6GC6WCTWANPH2IJA"
+name="Anthonyslav1"
+desc="Anthonyslav1 token."
+conditions="There are only 1000 in supply, For Pay4me assessment test"
+fixed_number=10000

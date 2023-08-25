@@ -1,0 +1,84 @@
+links": {
+    "self": {
+      "href": "https://horizon-testnet.stellar.org/accounts/GAL4NORXMCJHANTGHG3ZDLFDYXXKGWGW4KMDJ2RAPYAN6ESTLQHA26OE"
+    },
+    "transactions": {
+      "href": "https://horizon-testnet.stellar.org/accounts/GAL4NORXMCJHANTGHG3ZDLFDYXXKGWGW4KMDJ2RAPYAN6ESTLQHA26OE/transactions{?cursor,limit,order}",
+      "templated": true
+    },
+    "operations": {
+      "href": "https://horizon-testnet.stellar.org/accounts/GAL4NORXMCJHANTGHG3ZDLFDYXXKGWGW4KMDJ2RAPYAN6ESTLQHA26OE/operations{?cursor,limit,order}",
+      "templated": true
+    },
+    "payments": {
+      "href": "https://horizon-testnet.stellar.org/accounts/GAL4NORXMCJHANTGHG3ZDLFDYXXKGWGW4KMDJ2RAPYAN6ESTLQHA26OE/payments{?cursor,limit,order}",
+      "templated": true
+    },
+    "effects": {
+      "href": "https://horizon-testnet.stellar.org/accounts/GAL4NORXMCJHANTGHG3ZDLFDYXXKGWGW4KMDJ2RAPYAN6ESTLQHA26OE/effects{?cursor,limit,order}",
+      "templated": true
+    },
+    "offers": {
+      "href": "https://horizon-testnet.stellar.org/accounts/GAL4NORXMCJHANTGHG3ZDLFDYXXKGWGW4KMDJ2RAPYAN6ESTLQHA26OE/offers{?cursor,limit,order}",
+      "templated": true
+    },
+    "trades": {
+      "href": "https://horizon-testnet.stellar.org/accounts/GAL4NORXMCJHANTGHG3ZDLFDYXXKGWGW4KMDJ2RAPYAN6ESTLQHA26OE/trades{?cursor,limit,order}",
+      "templated": true
+    },
+    "data": {
+      "href": "https://horizon-testnet.stellar.org/accounts/GAL4NORXMCJHANTGHG3ZDLFDYXXKGWGW4KMDJ2RAPYAN6ESTLQHA26OE/data/{key}",
+      "templated": true
+    }
+  },
+  "id": "GAL4NORXMCJHANTGHG3ZDLFDYXXKGWGW4KMDJ2RAPYAN6ESTLQHA26OE",
+  "account_id": "GAL4NORXMCJHANTGHG3ZDLFDYXXKGWGW4KMDJ2RAPYAN6ESTLQHA26OE",
+  "sequence": "5086031552446465",
+  "sequence_ledger": 1184220,
+  "sequence_time": "1692956308",
+  "subentry_count": 1,
+  "last_modified_ledger": 1184220,
+  "last_modified_time": "2023-08-25T09:38:28Z",
+  "thresholds": {
+    "low_threshold": 0,
+    "med_threshold": 0,
+    "high_threshold": 0
+  },
+  "flags": {
+    "auth_required": false,
+    "auth_revocable": false,
+    "auth_immutable": false,
+    "auth_clawback_enabled": false
+  },
+  "balances": [
+    {
+      "balance": "10.0000000",
+      "limit": "1000.0000000",
+      "buying_liabilities": "0.0000000",
+      "selling_liabilities": "0.0000000",
+      "last_modified_ledger": 1184221,
+      "is_authorized": true,
+      "is_authorized_to_maintain_liabilities": true,
+      "asset_type": "credit_alphanum12",
+      "asset_code": "Anthonyslav1",
+      "asset_issuer": "GDZHHNRD7WWWUQQVIZBJBULGIHYGG7EY2ZJAXOFU6GC6WCTWANPH2IJA"
+    },
+    {
+      "balance": "9999.9999900",
+      "buying_liabilities": "0.0000000",
+      "selling_liabilities": "0.0000000",
+      "asset_type": "native"
+    }
+  ],
+  "signers": [
+    {
+      "weight": 1,
+      "key": "GAL4NORXMCJHANTGHG3ZDLFDYXXKGWGW4KMDJ2RAPYAN6ESTLQHA26OE",
+      "type": "ed25519_public_key"
+    }
+  ],
+  "data": {},
+  "num_sponsoring": 0,
+  "num_sponsored": 0,
+  "paging_token": "GAL4NORXMCJHANTGHG3ZDLFDYXXKGWGW4KMDJ2RAPYAN6ESTLQHA26OE"
+}
