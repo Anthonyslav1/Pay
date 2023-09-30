@@ -1,5 +1,4 @@
 from stellar_sdk import Asset, Keypair, Network, Server, TransactionBuilder
-
 # Configure Stellar SDK to talk to the horizon instance hosted by Stellar.org
 # To use the live network, set the hostname to 'https://horizon.stellar.org'
 server = Server(horizon_url="https://horizon-testnet.stellar.org")
