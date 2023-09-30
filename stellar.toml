@@ -7,16 +7,16 @@ ACCOUNTS=[
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Pay4me"
-ORG_DBA="Pay4me"
-ORG_URL="https://www.Pay4me.app"
+ORG_NAME="Pay"
+ORG_DBA="Pay"
+ORG_URL="https://www.Pay.app"
 ORG_LOGO=""
 ORG_DESCRIPTION="Fast & Affordable Global Payments"
 ORG_PHYSICAL_ADDRESS="[5th] Floor, Brassars' Place, 69 Admiralty Way, Lekki Phase 1, Lagos."
 ORG_PHYSICAL_ADDRESS_ATTESTATION="500 S 8th St, Boise, ID 83702”
-ORG_TWITTER= "Pay4meapp"
+ORG_TWITTER= "Pay"
 ORG_GITHUB=""
-ORG_OFFICIAL_EMAIL="support@pay4me.app"
+ORG_OFFICIAL_EMAIL="support@pay.app"
 
 [[PRINCIPALS]]
 name="Nweke Anthony"
