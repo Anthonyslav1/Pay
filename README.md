@@ -2,7 +2,7 @@
 ### Pay app Test
 
 
-The main.py contains the first 3 requirements while the last requirement can be found in the stellar.toml, pay4me.py files.
+The main.py contains the first 3 requirements while the last requirement can be found in the stellar.toml, pay.py files.
 
 
 
